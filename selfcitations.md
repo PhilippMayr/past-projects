@@ -1,7 +1,7 @@
 # Analyzing Self-citations in Web of Science
 
 **Team**: Dr. Ameni Kacem, Dr. Justin Flatt (collaborator without funding from the project)  
-**Lead**: Dr. Philipp Mayr
+**Lead**: Dr. Philipp Mayr   
 Duration: 01.04.-30.06.2018  
 Funding: BMBF  
 
