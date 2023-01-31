@@ -1,1 +1,17 @@
+# AMUR - User Guidance and System Tuning for Search Sessions
 
+**Staff**: Wilko van Hoek, Ameni Sahraoui, Vu Tran 
+**Leads**: Dr. Philipp Mayr, Prof. Dr. Norbert Fuhr 
+
+Duration: 1. July 2015 until 31. March 2018
+Funded by: Deutsche Forschungsgemeinschaft (grant number: MA 3964/5-1)
+
+Today retrieval environments do not provide adequate support for interactive retrieval sessions consisting of several progressively modified queries. The classical retrieval measures also fail in interactive retrieval scenarios with multiple queries. The AMUR project aims at improving the support of interactive retrieval sessions following two major goals:
+* Improving user guidance: based on the user’s search history the retrieval system recommends search activities. Current methods are often limited to the current situation and recommend content instead of possible actions.
+* System tuning: methods will be developed that improve the overall effectiveness of retrieval sessions. Current methods either focus on specific aspects and hold no information about the effects on the whole retrieval process or assess the whole session but are unable to assess the influence of specific system components.
+
+Achieving these goals requires a close collaboration between empirical practice and theory modeling. 
+On the empirical side, we would like to consider subject-specific searches using the example of the social scientists specialist portal sowiport, since retrieval sessions in such environments are more likely to be observed in these specialized search engines than in the web search. This also creates a greater need for appropriate support. Furthermore, it is expected that in this context the searching competence is more distinctive on average, so that higher searching activities could be observed more often.
+On the theory side, the probabilistic ranking principle for interactive information retrieval (IPRP), developed by our project partner, and the modeling of retrieval sessions as Markov process should be the starting point, in order to develop better models for user guidance, on the one hand, and to use novel simulation approaches to form the basis for targeted system improvements on the other hand. In accordance with this general objective, empirical data should first be collected and analyzed in sowiport and ezdl, which should serve as the basis for improved modeling.
+
+**Publications**:
