@@ -16,6 +16,7 @@ On the theory side, the probabilistic ranking principle for interactive informat
 
 **Publications**:
 * Kacem, A., & Mayr, P. (2018). Analysis of Search Stratagem Utilisation. Scientometrics, 116(2), 1383–1400. https://doi.org/10.1007/s11192-018-2821-8
+* Hienert, D., Mitsui, M., Mayr, P., Shah, C., & Belkin, N. J. (2018). The Role of the Task Topic in Web Search of Different Task Types. CHIIR ’18 Proceedings of the 2018 Conference on Human Information Interaction & Retrieval, 72–81. https://doi.org/10.1145/3176349.3176382
 * Belkin, N. J., Hienert, D., Mayr, P., & Shah, C. (2017). Data Requirements for Evaluation of Personalization of Information Retrieval - A Position Paper. In Working Notes of CLEF 2017 - Conference and Labs of the Evaluation Forum. Dublin, Ireland: CEUR-WS.org. Retrieved from http://ceur-ws.org/Vol-1866/paper_193.pdf
 * Carevic, Z., Lusky, M., van Hoek, W., & Mayr, P. (2017). Investigating exploratory search activities based on the stratagem level in digital libraries. International Journal on Digital Libraries. https://doi.org/10.1007/s00799-017-0226-6
 * Kacem, A., & Mayr, P. (2017). Analysis of Footnote Chasing and Citation Searching in an Academic Search Engine. In Proceedings of the 2nd Joint Workshop on Bibliometric-enhanced Information Retrieval and Natural Language Processing for Digital Libraries (BIRNDL 2017) co-located with the 40th International ACM SIGIR Conference on Research and Development in Information (pp. 91–100). Tokyo, Japan. http://ceur-ws.org/Vol-1888/paper8.pdf
