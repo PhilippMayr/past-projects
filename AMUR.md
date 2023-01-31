@@ -1,7 +1,7 @@
 # AMUR - User Guidance and System Tuning for Search Sessions
 
-**Staff**: Wilko van Hoek, Ameni Sahraoui, Vu Tran 
-**Leads**: Dr. Philipp Mayr, Prof. Dr. Norbert Fuhr 
+**Staff**: Wilko van Hoek, Ameni Sahraoui, Vu Tran   
+**Leads**: Dr. Philipp Mayr, Prof. Dr. Norbert Fuhr   
 
 Duration: 1. July 2015 until 31. March 2018
 Funded by: Deutsche Forschungsgemeinschaft (grant number: MA 3964/5-1)
