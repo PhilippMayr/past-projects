@@ -4,8 +4,8 @@
 **Lead**: Dr. Philipp Mayr  
 
 Duration: 01.09.2016 - 31.08.2019  
-Funding: DFG  
-Partner: WeST – Institute for Web Science and Technologies, University of Koblenz-Landau  
+Funding: DFG, grant number MA 3964/8-1.  
+Partner: **WeST – Institute for Web Science and Technologies, University of Koblenz-Landau**
 
 The shortage of citation data for the international and German social sciences is well known to researchers in the field and has itself often been subject to academic studies. Citation data is the basis of effective information retrieval, recommendation systems and knowledge discovery processes. Therefore, the accessibility of information in the social sciences currently lags behind other fields (e.g. the sciences) where more citation data is available. 
 The EXCITE project narrows this supply gap by developing a toolchain of citation extraction software that will be applied to existing databases of scientific literature, and made available to researchers during and after the project’s runtime, with a particular focus on the German-language social sciences. In order to reach this goal the project will develop a set of algorithms for the extraction of citation and reference information from PDF documents and the matching of reference strings against bibliographic databases. 
