@@ -3,9 +3,9 @@
 **Team**: Fakhri Momeni, Dr. Nick Fraser, Kristin Biesenbender  
 **Lead**: Dr. Philipp Mayr, Prof. Dr. Isabella Peters  
 
-Duration: 01.03.2018 -- 31.07.2022
-Funding: Federal Ministry for Education and Research (BMBF) grant numbers 01PU17005A (GESIS), 01PU17005B (ZBW)
-Partner: **ZBW -- Leibniz Information Centre for Economics**
+Duration: 01.03.2018 -- 31.07.2022  
+Funding: Federal Ministry for Education and Research (BMBF) grant numbers 01PU17005A (GESIS), 01PU17005B (ZBW)  
+Partner: **ZBW -- Leibniz Information Centre for Economics**  
 
 The project describes the transformation process from traditional to Open Access (OA) publishing from a bibliometric view, and analyses existing (and potentially future) publication strategies and conflicts in connection with OA.  
 
