@@ -4,7 +4,7 @@
 **Lead**: Dr. Philipp Mayr  
 
 Duration: 01.10.2015 –  28.02.2019  
-Funding: OSCOSS was funded by the DFG in the Open Access Transformation programme.
+Funding: OSCOSS was funded by the DFG in the Open Access Transformation programme.  
 Partner: **University of Bonn, Fraunhofer IAIS**
 
 Scholarly communication in the social sciences is centered around publications, in which data also play a key role. The increasingly collaborative scientific process, from a project plan, to collecting data, to interpreting them in a paper and submitting it for peer review, to publishing an article, to, finally, its consumption by readers, is insufficiently supported by contemporary information systems. They support every individual step, but media discontinuities between steps cause inefficiency and loss of information: word processors lack direct access to data; reviewers cannot provide feedback inside the environment in which authors revising their papers; open access web publishing is constrained to document formats designed for paper printing but neglecting the Web's accessibility and interactivity potential; finally, readers, seeing a single frozen view of the underlying data in a paper, are unable to access the full extent of the data and to make observations beyond the restricted scope chosen by the author.
