@@ -1,6 +1,6 @@
 # Opening Scholarly Communication in the Social Sciences (OSCOSS)
 
-**Team**: Fakhri Momeni, Dr. Johannes Wilm
+**Team**: Fakhri Momeni, Dr. Johannes Wilm  
 **Lead**: Dr. Philipp Mayr  
 
 Duration: 01.10.2015 –  28.02.2019  
