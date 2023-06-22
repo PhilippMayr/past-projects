@@ -23,6 +23,7 @@ The overall contribution of the project will be a recommendation of successful t
 
 
 **Publications**:  
+* Roy, D., Carevic, Z., & Mayr, P. (2023). Retrievability in an Integrated Retrieval System: An Extended Study. International Journal on Digital Libraries. https://link.springer.com/article/10.1007/s00799-023-00363-4
 * Roy, D., Carevic, Z., & Mayr, P. (2022). Studying retrievability of publications and datasets in an integrated retrieval system. Proceedings of the 22nd ACM/IEEE Joint Conference on Digital Libraries. JCDL ’22: The ACM/IEEE Joint Conference on Digital Libraries in 2022. https://doi.org/10.1145/3529372.3530931
 * Roy, D., Mitra, M., Mayr, P., & Chowdhury, A. (2022). Local or Global? A Comparative Study on Applications of Embedding Models for Information Retrieval. In CODS-COMAD 2022: 5th Joint International Conference on Data Science & Management of Data (9th ACM IKDD CODS and 27th COMAD) (pp. 115–119). https://doi.org/10.1145/3493700.3493701
 * Krämer, T., Carevic, Z., Roy, D., Klas, C.-P., & Mayr, P. (2021). ConSTR: A Contextual Search Term Recommender. 2021 ACM/IEEE Joint Conference on Digital Libraries (JCDL), 295–296. https://doi.org/10.1109/JCDL52503.2021.00042
