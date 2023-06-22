@@ -17,6 +17,8 @@ The study will be based on approx. 1.38 million articles from approx. 700 Gold O
 
 **Publications**:  
 
+*Fraser, N., Hobert, A., Jahn, N., Mayr, P., & Peters, I. (2023). No Deal: German Researchers’ Publishing and Citing Behaviours after Big Deal Negotiations with Elsevier. Quantitative Science Studies, 4(2), 325–352. https://doi.org/10.1162/qss_a_00255 
+* Momeni, F., Dietze, S., Mayr, P., Biesenbender, K., & Peters, I. (2023). Which Factors are Associated with Open Access Publishing? A Springer Nature Case Study. Quantitative Science Studies, 4(2), 353–371. https://doi.org/10.1162/qss_a_00253
 * Fraser, N., Mayr, P., & Peters, I. (2022). Motivations, concerns and selection biases when posting preprints: A survey of bioRxiv authors. PLoS ONE, 17(11). https://doi.org/10.1371/journal.pone.0274441 
 * Momeni, F., Karimi, F., Mayr, P., Peters, I., & Dietze, S. (2022). The many facets of academic mobility and its impact on scholars’ career. Journal of Informetrics, 16(2). https://doi.org/10.1016/j.joi.2022.101280
 * Hobert, A., Jahn, N., Mayr, P., Schmidt, B., & Taubert, N. (2021). Open access uptake in Germany 2010-18: Adoption in a diverse research landscape. Scientometrics, 126(12), 9751–9777. https://doi.org/10.1007/s11192-021-04002-0 
