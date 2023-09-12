@@ -17,6 +17,8 @@ The study will be based on approx. 1.38 million articles from approx. 700 Gold O
 
 **Publications**:  
 
+* Biesenbender, K., Mayr, P., & Peters, I. (2023a). Open Access, Preprints and Research Impact (OASE): Transcripts from Focus Group Interviews. Qualiservice, PANGAEA. https://doi.pangaea.de/10.1594/PANGAEA.960919
+* Biesenbender, K., Mayr, P., & Peters, I. (2023b). Study Report “Open Access Effects” (OASE) – The influence of structural and author-specific factors on the impact of open access publications from various disciplines. Forschungsdatenzentrum Qualiservice. https://doi.org/10.26092/elib/2335
 * Fraser, N., Hobert, A., Jahn, N., Mayr, P., & Peters, I. (2023). No Deal: German Researchers’ Publishing and Citing Behaviours after Big Deal Negotiations with Elsevier. Quantitative Science Studies, 4(2), 325–352. https://doi.org/10.1162/qss_a_00255 
 * Momeni, F., Dietze, S., Mayr, P., Biesenbender, K., & Peters, I. (2023). Which Factors are Associated with Open Access Publishing? A Springer Nature Case Study. Quantitative Science Studies, 4(2), 353–371. https://doi.org/10.1162/qss_a_00253
 * Fraser, N., Mayr, P., & Peters, I. (2022). Motivations, concerns and selection biases when posting preprints: A survey of bioRxiv authors. PLoS ONE, 17(11). https://doi.org/10.1371/journal.pone.0274441 
