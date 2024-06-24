@@ -17,7 +17,10 @@ The study will be based on approx. 1.38 million articles from approx. 700 Gold O
 
 **Publications**:  
 
-* Biesenbender, K., Smirnova, N., Mayr, P., & Peters, I. (2024). The Emergence of Preprints: Comparing Publishing Behaviour in the Global South and the Global North. Online Information Review. https://doi.org/10.1108/OIR-04-2023-0181 
+* Biesenbender, K., Toepfer, R., & Peters, I. (2024). Life scientists' experience with posting preprints during the COVID-19 pandemic. Scientometrics. https://link.springer.com/article/10.1007/s11192-024-04982-9 
+* Biesenbender, K., Smirnova, N., Mayr, P., & Peters, I. (2024). The Emergence of Preprints: Comparing Publishing Behaviour in the Global South and the Global North. Online Information Review. https://doi.org/10.1108/OIR-04-2023-0181
+* Biesenbender, K., Peters, I., & Toepfer, R. (2023). Experience with posting preprints during the Covid-19 pandemic - survey results. In Proceedings of International Conference of the International Society for Scientometrics and Informetrics (ISSI), Bloomington, IN, USA. 
+* Biesenbender, K., & Peters, I. (2023). The evolution of preprint repositories during the Covid-19 pandemic: A temporary glitch? In ASIS&T METSTI 2023: Workshop on Informetric, Scientometric, and Scientific and Technical Information Research (METSTI 2023), London, UK. https://doi.org/10.5281/zenodo.10546347
 * Momeni, F., Mayr, P., & Dietze, S. (2023). Investigating the contribution of author- and publication-specific features to scholars’ h-index prediction. EPJ Data Science. https://doi.org/10.1140/epjds/s13688-023-00421-6
 * Biesenbender, K., Mayr, P., & Peters, I. (2023a). Open Access, Preprints and Research Impact (OASE): Transcripts from Focus Group Interviews. Qualiservice, PANGAEA. https://doi.pangaea.de/10.1594/PANGAEA.960919
 * Biesenbender, K., Mayr, P., & Peters, I. (2023b). Study Report “Open Access Effects” (OASE) – The influence of structural and author-specific factors on the impact of open access publications from various disciplines. Forschungsdatenzentrum Qualiservice. https://doi.org/10.26092/elib/2335
@@ -25,6 +28,8 @@ The study will be based on approx. 1.38 million articles from approx. 700 Gold O
 * Momeni, F., Dietze, S., Mayr, P., Biesenbender, K., & Peters, I. (2023). Which Factors are Associated with Open Access Publishing? A Springer Nature Case Study. Quantitative Science Studies, 4(2), 353–371. https://doi.org/10.1162/qss_a_00253
 * Fraser, N., Mayr, P., & Peters, I. (2022). Motivations, concerns and selection biases when posting preprints: A survey of bioRxiv authors. PLoS ONE, 17(11). https://doi.org/10.1371/journal.pone.0274441 
 * Momeni, F., Karimi, F., Mayr, P., Peters, I., & Dietze, S. (2022). The many facets of academic mobility and its impact on scholars’ career. Journal of Informetrics, 16(2). https://doi.org/10.1016/j.joi.2022.101280
+* Biesenbender, K., & Peters, I. (2022). Analyses of the role of preprints in the dissemination and reception of research results. In Open Access Days 2022, Bern, Switzerland. https://doi.org/10.5281/zenodo.7142610
+* Biesenbender, K., & Peters, I. (2022). Researchers' Attitudes Towards Publishing and Citing Preprints - Side Paths to Open Access. In N. Robinson-Garcia, D. Torres-Salinas, & W. Arroyo-Machado (Eds.), Proceedings of the 26th International Conference on Science and Technology Indicators (STI 2022), Granada. https://doi.org/10.5281/zenodo.6974779 
 * Hobert, A., Jahn, N., Mayr, P., Schmidt, B., & Taubert, N. (2021). Open access uptake in Germany 2010-18: Adoption in a diverse research landscape. Scientometrics, 126(12), 9751–9777. https://doi.org/10.1007/s11192-021-04002-0 
 * Momeni, F., Mayr, P., Fraser, N., & Peters, I. (2021). What happens when a journal converts to Open Access? A bibliometric analysis. Scientometrics, 126(12), 9811–9827. https://doi.org/10.1007/s11192-021-03972-5 
 *	Fraser, N., Momeni, F., Mayr, P., & Peters, I. (2020). The relationship between bioRxiv pre-prints, citations and altmetrics. Quantitative Science Studies, 1(2), 618–638. https://doi.org/10.1162/qss_a_00043 
